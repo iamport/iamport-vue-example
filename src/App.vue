@@ -1,9 +1,5 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
     <router-view/>
   </div>
 </template>
@@ -15,18 +11,37 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  background-color: #344e81;
 }
 
-#nav {
-  padding: 30px;
+.imp-container {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #fff;
+  border-radius: 3px;
+  padding: 2rem 5rem;
 
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
+  h1 {
+    margin-bottom: 50px;
   }
+
+  .imp-payment-escrow .ant-form-item-control {
+    text-align: left;
+  }
+  .ant-btn {
+    margin: 20px 5px 0 5px;
+  }
+}
+
+.ant-row.ant-form-item {
+  margin-bottom: 10px;
 }
 </style>

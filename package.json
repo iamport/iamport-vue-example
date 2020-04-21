@@ -1,13 +1,27 @@
 {
   "name": "iamport-vue-example",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "description": "뷰용 아임포트 결제/본인인증 연동 예제 프로젝트",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "keywords": [
+    "iamport",
+    "vue",
+    "vuejs"
+  ],
+  "author": "Solee Choi <mymusese@gmail.com> (https://github.com/SoleeChoi)",
+  "homepage": "https://github.com/iamport/iamport-vue-example",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamport/iamport-vue-example"
+  },
+  "license": "MIT",
   "dependencies": {
+    "ant-design-vue": "^1.5.3",
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6",
@@ -19,6 +33,7 @@
     "@vue/cli-service": "^4.3.0",
     "@vue/eslint-config-airbnb": "^5.0.2",
     "babel-eslint": "^10.1.0",
+    "babel-plugin-import": "^1.13.0",
     "eslint": "^6.7.2",
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-vue": "^6.2.2",

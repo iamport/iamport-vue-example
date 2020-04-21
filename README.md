@@ -4,7 +4,7 @@
 [ ![alt text](https://img.shields.io/badge/ant--design--vue-v1.5.3-yellow.svg?longCache=true&style=flat-square) ](https://github.com/vueComponent/ant-design-vue)
 [ ![alt text](https://img.shields.io/badge/styled--components-v4.3.2-green.svg?longCache=true&style=flat-square) ](https://github.com/styled-components/styled-components)
 
-뷰 환경에서 아임포트 결제 및 본인인증 연동을 위한 예제입니다.
+뷰 환경에서 아임포트 결제 및 본인인증 연동을 위한 예제입니다. 뷰 네이티브용 예제 프로젝트는 [여기](https://github.com/iamport/iamport-vue-native)를 참조해주세요.
 
 ## 다운받기
 

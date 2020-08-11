@@ -9,7 +9,7 @@
 ## 다운받기
 
 ```
-$ git clone https://github.com/SoleeChoi/iamport-vue-example
+$ git clone https://github.com/iamport/iamport-vue-example
 ```
 
 ## 실행하기

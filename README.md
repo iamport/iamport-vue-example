@@ -1,5 +1,13 @@
 # iamport-vue-example
 
+> [!WARNING]
+> **이 저장소는 더 이상 유지보수되지 않습니다 (Deprecated).**
+>
+> 아래 포트원 공식 문서를 참고해 주세요.
+>
+> - **포트원 V2 (권장)**: [결제 연동 시작하기](https://developers.portone.io/opi/ko/integration/start/v2/readme?v=v2) · [JavaScript SDK](https://developers.portone.io/sdk/ko/v2-sdk/readme?v=v2) · [portone-sample 샘플 프로젝트](https://github.com/portone-io/portone-sample)
+> - **포트원 V1 (기존 아임포트)**: [인증 결제 연동하기](https://developers.portone.io/opi/ko/integration/start/v1/auth?v=v1) · [JavaScript SDK](https://developers.portone.io/sdk/ko/v1-sdk/javascript-sdk/readme?v=v1)
+
 [ ![alt text](https://img.shields.io/badge/vue-v2.6.11-orange.svg?longCache=true&style=flat-square) ](https://github.com/vuejs/vue)
 [ ![alt text](https://img.shields.io/badge/ant--design--vue-v1.5.3-yellow.svg?longCache=true&style=flat-square) ](https://github.com/vueComponent/ant-design-vue)
 [ ![alt text](https://img.shields.io/badge/styled--components-v4.3.2-green.svg?longCache=true&style=flat-square) ](https://github.com/styled-components/styled-components)
